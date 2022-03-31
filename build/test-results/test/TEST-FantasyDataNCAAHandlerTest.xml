@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FantasyDataNCAAHandlerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-31T08:19:54" hostname="SBGML06045" time="0.025">
+  <properties/>
+  <testcase name="should say hello()" classname="FantasyDataNCAAHandlerTest" time="0.025"/>
+  <system-out><![CDATA[/Users/Stephen.Roberts2/Documents/NCAA/fantasy-data-ncaa-adapter/src/main/resources/002_FD_QB_2021_Wk02.csv
+/Users/Stephen.Roberts2/Documents/NCAA/fantasy-data-ncaa-adapter/src/main/resources/003_FD_QB_2021_Wk03.csv
+/Users/Stephen.Roberts2/Documents/NCAA/fantasy-data-ncaa-adapter/src/main/resources/001_FD_QB_2021_Wk01.csv
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
